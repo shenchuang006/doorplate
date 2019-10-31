@@ -1,0 +1,16 @@
+target/
+/target/
+.idea
+.svn
+*.iml
+.target
+*.tld
+*/*.iml
+.iml
+*/target
+.project
+/.settings/
+.settings/
+.classpath
+dubbo-registry/
+workspace.xml

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/doorplate.iml" filepath="$PROJECT_DIR$/doorplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplate-api/doorplate-api.iml" filepath="$PROJECT_DIR$/doorplate-api/doorplate-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplate-config/doorplate-config.iml" filepath="$PROJECT_DIR$/doorplate-config/doorplate-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplate-eureka/doorplate-eureka.iml" filepath="$PROJECT_DIR$/doorplate-eureka/doorplate-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateconfig-bus-client/doorplateconfig-bus-client.iml" filepath="$PROJECT_DIR$/doorplateconfig-bus-client/doorplateconfig-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateconfig-busconfig/doorplateconfig-busconfig.iml" filepath="$PROJECT_DIR$/doorplateconfig-busconfig/doorplateconfig-busconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateconfig-client/doorplateconfig-client.iml" filepath="$PROJECT_DIR$/doorplateconfig-client/doorplateconfig-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateconsumer-AB/doorplateconsumer-AB.iml" filepath="$PROJECT_DIR$/doorplateconsumer-AB/doorplateconsumer-AB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplatefeign-client/doorplatefeign-client.iml" filepath="$PROJECT_DIR$/doorplatefeign-client/doorplatefeign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplatefeign-server/doorplatefeign-server.iml" filepath="$PROJECT_DIR$/doorplatefeign-server/doorplatefeign-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateservice-A/doorplateservice-A.iml" filepath="$PROJECT_DIR$/doorplateservice-A/doorplateservice-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplateservice-B/doorplateservice-B.iml" filepath="$PROJECT_DIR$/doorplateservice-B/doorplateservice-B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doorplatezuul-server/doorplatezuul-server.iml" filepath="$PROJECT_DIR$/doorplatezuul-server/doorplatezuul-server.iml" />
+    </modules>
+  </component>
+</project>

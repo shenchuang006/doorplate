@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: config-client-git
+
+server:
+  port: 9000
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka/
+
+# **特别注意：上面这些与spring-cloud相关的属性必须配置在
+# bootstrap.properties中，config部分内容才能被正确加载。因为config
+# 的相关配置会先于application.properties，而bootstrap.properties
+# 的加载也是先于application.properties。**

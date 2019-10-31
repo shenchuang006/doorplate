@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="doorplate-api" />
+        <module name="doorplate-config" />
+        <module name="doorplate-eureka" />
+        <module name="doorplateconfig-bus-client" />
+        <module name="doorplateconfig-busconfig" />
+        <module name="doorplateconfig-client" />
+        <module name="doorplateconsumer-AB" />
+        <module name="doorplatefeign-client" />
+        <module name="doorplatefeign-server" />
+        <module name="doorplateservice-A" />
+        <module name="doorplateservice-B" />
+        <module name="doorplatezuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="doorplate" target="1.8" />
+      <module name="doorplate-api" target="1.8" />
+      <module name="doorplate-config" target="1.8" />
+      <module name="doorplate-eureka" target="1.8" />
+      <module name="doorplateconfig-bus-client" target="1.8" />
+      <module name="doorplateconfig-busconfig" target="1.8" />
+      <module name="doorplateconfig-client" target="1.8" />
+      <module name="doorplateconsumer-AB" target="1.8" />
+      <module name="doorplatefeign-client" target="1.8" />
+      <module name="doorplatefeign-server" target="1.8" />
+      <module name="doorplateservice-A" target="1.8" />
+      <module name="doorplateservice-B" target="1.8" />
+      <module name="doorplatezuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

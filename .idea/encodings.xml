@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplate-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplate-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplate-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateconfig-bus-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateconfig-busconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateconfig-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateconsumer-AB" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplatefeign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplatefeign-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateservice-A" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplateservice-B" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doorplatezuul-server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
